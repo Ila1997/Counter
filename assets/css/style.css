@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
+
+  @media screen and (max-width: 576px) {
+
+  body {  
+    color: rgb(0, 0, 0) !important; }
+  
+  .card {
+    width: 100% !important; }
+  
+  .counter-title {
+    font-size: 40px !important; }
+
+  .button {
+    color:rgb(0, 0, 0)} 
+  }
+  
+  @media screen and (max-width: 992px) {
+  
+  .card {
+    width: 100% !important; } }
+  
+  body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, #a9a9ff 10%, #ffd7d7 50%);
+    background-repeat: no-repeat; }
+  
+  .container-fluid {
+    height: 100vh; }
+  
+  .counter-title {
+    font-size: 60px;
+    margin: 0; }
+
+  .social-icon {
+    font-size: 25px;
+    color: #3b3a3a;
+    transition: ease-in-out }
+    
+  .social-icon:hover {
+    color: #ff9090; }
+  
+  .card {
+    width: 60%;
+    height: 55%;
+    background-color: rgba(255, 255, 255, 0.1) !important; }
+  
+  .icon {
+    font-size: 35px; 
+    transition: ease-in-out; }
+  
+  .display-counter {
+    text-align: center;
+    font-size: 52px;}
+  
+  .button {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    transition: ease-in-out; }    
+ 
+  .button:hover {
+    transform: scale(1.3); }
