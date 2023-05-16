@@ -16,4 +16,4 @@ It has:
 - *Plus and minus*, so you can increase or decrease
 - *Reset* function, so you can start counting again whenever you want
 ______
-<p align="right">(<a href="#top">back to top:arrow_up_small:</a>)</p>
+<p align="right">(<a href="#top">back to top:arrow_up_small:</a>)</p> 
