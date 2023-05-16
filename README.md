@@ -1,3 +1,6 @@
+
+# :computer: *Online Counter*
+
 <div id="top"></div>
 <br />
 <div align="center">
@@ -5,7 +8,7 @@
   <p align="center">
   </p>
 </div>
-# :computer: *Online Counter*
+
 ![Immagine](https://i.ibb.co/cQX4rnS/Screenshot-6.png)
 # :link: *Project link: [Counter](https://ila1997.github.io/Counter/)*
 
