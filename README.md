@@ -9,7 +9,7 @@
   </p>
 </div>
 
-![Immagine](https://i.ibb.co/q7Qm2Zv/Screenshot-8.png" alt="Screenshot-8)
+![Immagine](https://i.ibb.co/q7Qm2Zv/Screenshot-8.png)
 # :link: *Project link: [Counter](https://ila1997.github.io/Counter/)*
 
 # *About the project:*
