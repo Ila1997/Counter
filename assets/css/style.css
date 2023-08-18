@@ -37,6 +37,20 @@ button {
     color:rgb(0, 0, 0)} 
   }
   
+  .container {
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  
+  p {
+    font-size: 30px;
+  }
+  
+  .btn-reset {
+    margin-top: 5%;
+  }
+
   @media screen and (max-width: 992px) {
   
   .card {
@@ -77,3 +91,18 @@ button {
     flex-direction: column;
     justify-content: center;
     transition: ease-in-out; }    
+
+    .container {
+      justify-content: center;
+      text-align: center;
+      flex-direction: column;
+    }
+    
+    p {
+      font-size: 30px;
+    }
+    
+    .btn-reset {
+      margin-top: 5%;
+    }
+  
