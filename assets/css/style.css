@@ -1,9 +1,25 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
-
-  button {
+@import url('https://fonts.googleapis.com/css2?family=Ruwudu:wght@500;600;700&display=swap');
+  
+button {
+  font-size: 30px;
+  font-weight: 600;
     border: none;
     background-color: transparent;
     outline: none;
+  }
+
+  .container {
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  
+  p {
+    font-size: 30px;
+  }
+  
+  .btn-reset {
+    margin-top: 5%;
   }
 
   @media screen and (max-width: 576px) {
@@ -56,17 +72,8 @@
     font-size: 35px; 
     transition: ease-in-out; }
   
-  .display-counter {
-    text-align: center;
-    font-size: 52px;}
-  
   .button {
     display: flex !important;
     flex-direction: column;
     justify-content: center;
     transition: ease-in-out; }    
- 
-  .button:hover {
-    transform: scale(1.3); }
-  
- 
