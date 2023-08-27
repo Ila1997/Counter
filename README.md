@@ -13,7 +13,7 @@
 # :link: *Project link: [Counter](https://ila1997.github.io/Counter/)*
 
 # *About the project:*
-It is a simple online counter where the user can count quickly, both from laptot and mobile. 
+It is a simple online counter where the user can count quickly, both from laptop and mobile. 
 
 It has:
 - *Plus and minus*, so you can increase or decrease
